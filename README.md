@@ -39,7 +39,7 @@ In the resulting window, give the project a name and an optional description. De
 
 Click Create Repository and GitHub will do it's thing. The address of the new repository will be:
 
-https://github.com/Cyb3r-J0ll0f/InstinctHub​.git
+https://github.com/Cyb3r-J0ll0f/Intro-github-basics
 
 How to connect your local project
 
@@ -73,7 +73,7 @@ You can change the text in quotes to be whatever you want, such as "my first com
 
 The next step will make use of the GitHub repository address. What we need to do is add the local repository to the origin (the name of the remote repository where you want to publish your commits) of the remote repository. This is done with the command:
 
-git remote add origin https://github.com/Cyb3r-J0ll0f/InstinctHub.git
+git remote add origin https://github.com/Cyb3r-J0ll0f/Intro-github-basics
 
 At this point you can then push your work to the remote with the command:
 
